@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brysonshelton
+- 👋 Hi, I’m Bryson Shelton
 - 👀 I’m interested in Ruby programming, Python programming
 - 🌱 I’m currently learning Ruby on Rails, Django
 - 📫 How to reach me bryson1679@gmail.com
